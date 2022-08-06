@@ -1,0 +1,29 @@
+{
+  "name": "car-park-payment-vue",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
+  },
+  "dependencies": {
+    "@web3-onboard/injected-wallets": "^2.0.15",
+    "@web3-onboard/vue": "^2.1.5",
+    "ethers": "^5.6.9",
+    "install": "^0.13.0",
+    "npm": "^8.16.0",
+    "vite-plugin-live-reload": "^3.0.0",
+    "vue": "^3.2.37"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.1.0",
+    "@vitejs/plugin-vue": "^3.0.1",
+    "@vue-leaflet/vue-leaflet": "^0.6.1",
+    "@vue/eslint-config-prettier": "^7.0.0",
+    "eslint": "^8.5.0",
+    "eslint-plugin-vue": "^9.0.0",
+    "prettier": "^2.5.1",
+    "vite": "^3.0.1"
+  }
+}
