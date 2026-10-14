@@ -13,7 +13,7 @@
     "@web3-onboard/vue": "^2.1.5",
     "ethers": "^5.6.9",
     "install": "^0.13.0",
-    "npm": "^8.16.0",
+    "npm": "^12.2.0",
     "vite-plugin-live-reload": "^3.0.0",
     "vue": "^3.2.37"
   },
@@ -23,7 +23,7 @@
     "@vue-leaflet/vue-leaflet": "^0.6.1",
     "@vue/eslint-config-prettier": "^7.0.0",
     "eslint": "^8.5.0",
-    "eslint-plugin-vue": "^9.0.0",
+    "eslint-plugin-vue": "^10.11.1",
     "prettier": "^2.5.1",
     "vite": "^3.0.1"
   }
